@@ -37,7 +37,6 @@ output:
       number_sections: true
       code_folding: show
       include:
-        before_body: header.html
         after_body: footer.html
       css: style.css
 new_session: true
