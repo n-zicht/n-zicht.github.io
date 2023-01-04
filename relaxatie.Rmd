@@ -1,0 +1,19 @@
+---
+title: "Relaxatie"
+output:
+    html_document:
+        code_download: false
+        toc: false
+        number_sections: false
+        code_folding: "none"
+---
+
+Lichaamsgecentreerde dynamische therapie maakt gebruik van 
+massage, beweging, lichaamslezen, ademhaling, spierspanning en -ontspanning. 
+
+Uiteraard kunnen deze technieken ook niet-therapeutisch worden ingezet met het oog op ontspanning. 
+Je kan dan ook bij n-zicht terecht voor een ontspanningsmassage en relaxatie. 
+
+Verloop?
+Een sessie ontspanningsmassage neemt ongeveer 1 uur in beslag.
+Eerst wordt er afgestemd, daarna volgt een massage van ongeveer 45 minuten.

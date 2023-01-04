@@ -1,5 +1,5 @@
 ---
-title: "Samen het leven vieren met Biodanza Brugge"
+title: "n-zicht via Biodanza, Bach Bloesem Remedies en Lichaamsgerichte Therapie"
 output:
     html_document:
         code_download: false
@@ -8,34 +8,36 @@ output:
         code_folding: "none"
 ---
 
-![](./figs/dansenAchtergrond2022_small.jpg)
 
-</br>
+Hoe we ons voelen in het hier en nu bepaalt ons zijn en hoe we staan in onze omgeving. Luisteren naar ons lichaam laat ons toe bewust te worden van onze gevoelens en emoties en ze te erkennen. n-zicht heeft als missie om je op jouw tempo via Biodanza en therapie aan te laten komen bij je ware zijn, je "zelf" te versterken, je te ondersteunen in moeilijke momenten, je uit te nodigen om te durven verbinden en om het leven te vieren.
 
-Lichaamstaal is even belangrijk en soms belangrijker dan gesproken taal.   
-Het luisteren naar ons lichaam laat ook toe om ons bewust te worden van gevoelens en emoties, en ze te erkennen. 
-
-<!--Onze lichaamshouding vertelt veel over ons levenspad. Door de gebeurtenissen, contacten, onze leefomgeving, de aandacht en liefde die we krijgen, gaat ons lichaam een bepaalde houding aannemen. Deze houding voelt vertrouwd aan. Sommige facetten in onze houding en lichaamstaal die ooit zijn ontstaan vanuit bescherming en toen zinvol waren, kunnen later onze groei, levensvreugde en omgeving (on)bewust beïnvloeden. Je meer bewust worden van je lichaamshouding kan er dan ook voor zorgen dat je zowel fysiek als emotioneel je plek kan innemen op een manier die goed voelt voor jou en anderen, dicht bij jezelf, in je midden.-->
-
-Biodanza maakt gebruik van de kracht van muziek, dans en beweging in groep om tot een beleving (vivencia) te komen. Dat brengt positieve veranderingsprocessen op gang die door kunnen werken in ons dagdagelijkse leven. Jezelf en de ander ontmoeten staat in Biodanza centraal. Om tot een beleving te komen is het belangrijk dat we ons veilig voelen in de groep. We staan open voor elkaar zonder oordeel.
-
-Biodanza is Gym voor je hele zijn en
-
-- laat je opnieuw verbinden met jezelf, de anderen en het universum,
-- het verbetert de algemene energie en stimuleert je organisme en cellen zich opnieuw te vernieuwen, 
-- inspireert je om warmte en affectiviteit opnieuw in de wereld te zetten, en,
-- laat je weer voeling krijgen met je oorspronkelijke manier van zijn.
-
-Biodanza is een pad naar de vreugde van het leven.
-
-Het systeem Biodanza werd gecreëerd door Rolando Toro Araneda uit Chili, voormalig hoogleraar expressie psychologie aan de Universiteit van Chili. Rolando Toro haalde inspiratie uit de antropologie en de gedragsbiologie. De theoretische achtergronden van Biodanza werd gevonden in de biologie: de wetenschap van het leven.
-
-[Wekelijkse Groep Biodanza](./activiteiten.html)  
-
-[Getuigenissen](./getuigenissen.html)
-
-</br>
+</br> 
 
 <center>
-![](./figs/logoOnderSupervisie.png){width=50%}
+**Biodanza**
 </center>
+
+</br> 
+
+Tijdens [Biodanza](https://biodanzabrugge.be) word je uitgenodigd om je te durven verbinden met jezelf, de anderen en het universum. Waarbij je zonder aangeleerde pasjes vrij zal kunnen en durven bewegen. Letterlijk en figuurlijk. Het groepsgebeuren geeft je de kans om via contact met de anderen aan te komen bij jezelf. De ander is hierbij als het ware een spiegel. Dat wordt op een hele veilige manier opgebouwd vanuit een grote positiviteit. Hierbij vertrekken we vanuit het systeem [Biodanza](https://biodanzabrugge.be/) dat gebruik maakt van de kracht van muziek, dans en beweging in groep om tot een beleving (vivencia) te komen. Het plezier van bewegen, en, jezelf en de ander ontmoeten staan in Biodanza centraal. Individueel en in contact met anderen en dat heel trouw aan wie je werkelijk bent.
+
+</br> 
+
+<center>
+**Therapeutisch werk** 
+</center>
+
+</br> 
+
+Iedereen heeft op zijn weg wel eens periodes van stress, depressie, angst, onzekerheid, verdriet, lusteloosheid, kwaadheid, piekeren, overbezorgdheid, ... Emoties die je uit balans kunnen brengen en tot fysieke klachten kunnen leiden wanneer ze lang aanhouden.
+
+Gemoedstoestanden vormen bij n-zicht het startpunt. Jij krijgt de mogelijkheid om je te focussen op je eigen behoeften waardoor je je gemoedstoestanden erkent, inzicht krijgt in emotionele processen en moeilijkheden in perspectief kan zetten.
+
+Jij bepaalt waar je het over wil hebben. Het is jouw proces, jouw beweging om actief op weg te gaan en we volgen hierbij jouw ritme.
+
+In een veilige en rustige omgeving help ik, [Fien Morel](./about.html), jou tot zelfkennis te komen d.m.v. gesprekstherapie op basis van [Bach Bloesem Remedies](./bachbloesems.html) en [Lichaamsgerichte Therapie](lichaamsgericht.html). Met veel warmte, positiviteit, begrip, respect en de nodige dosis humor zorg ik vanop de zijlijn voor de juiste steun en condities.
+
+De therapieën ondersteunen het herstel van het emotioneel evenwicht en je persoonlijke groei en bewustwording. Tijdens een verkennend gesprek bekijken we wat je hulpvraag is en bij welke vorm je je het best voelt. Een combinatie van de verschillende therapieeën is zeker mogelijk. Uiteraard kan je bij n-zicht ook terecht voor een [ontspanningsmassage en relaxatie](./relaxatie.html).
+
+- [Waarvoor kan je bij n-zicht terecht](./voorwie.html)
+- [Wekelijkse Biodanza Groepen](https://biodanzabrugge.be/activiteiten.html)

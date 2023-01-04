@@ -1,0 +1,27 @@
+---
+title: "Consult"
+output:
+    html_document:
+        code_download: false
+        toc: false
+        number_sections: false
+        code_folding: "none"
+---
+
+Iedereen heeft op zijn weg wel eens periodes van stress, depressie, angst, onzekerheid, verdriet, lusteloosheid, kwaadheid, piekeren, overbezorgdheid, ...
+Emoties die je uit balans kunnen brengen en tot fysieke klachten kunnen leiden wanneer ze lang aanhouden.
+
+Gemoedstoestanden vormen bij n-zicht het startpunt. Jij krijgt de mogelijkheid om je te focussen op je eigen behoeften waardoor je je gemoedstoestanden erkent, inzicht krijgt in emotionele processen en moeilijkheden in perspectief kan zetten.
+
+Jij bepaalt waar je het over wil hebben. Het is jouw proces,
+jouw beweging om actief op weg te gaan en we volgen hierbij jouw ritme.
+
+In een veilige en rustige omgeving help ik, [Fien Morel](./about.html), jou tot zelfkennis te komen d.m.v. gesprekstherapie op basis van [Bach Bloesem Remedies](./bachbloesems.html) en [Lichaamsgerichte Therapie](./lichaamsgericht.html).
+Met veel warmte, positiviteit, begrip, respect en de nodige dosis humor zorg ik vanop de zijlijn voor de juiste steun en condities.
+
+De therapieën ondersteunen het herstel van het emotioneel evenwicht en je persoonlijke groei en bewustwording.
+Tijdens een verkennend gesprek bekijken we wat je hulpvraag is en bij welke vorm je je het best voelt.
+Een combinatie van de verschillende therapieeën is zeker mogelijk.
+Uiteraard kan je bij n-zicht ook terecht voor een [ontspanningsmassage en relaxatie](./relaxatie.html).
+
+[Waarvoor kan je bij n-zicht terecht](./voorwie.html)?
