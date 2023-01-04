@@ -1,0 +1,17 @@
+---
+title: "Links"
+output:
+    html_document:
+        code_download: false
+        toc: false
+        number_sections: false
+        code_folding: "none"
+---
+
+</br>
+
+- [Praktijk n-zicht, Bach Bloesem Remedies en Lichaamsgerichte Therapie, Fien Morel](https://www.n-zicht.be/)
+- [Biodanzaschool Antwerpen - Annette Heynderickx]( https://www.biodanzaschoolantwerpen.be/)
+- [Biodanzaschool Breda - Annette Heynderickx]( https://www.biodanzabreda.nl/)
+- [Biodanza België](https://biodanza.be/nl/)
+
