@@ -1,0 +1,213 @@
+@import "main_orig.css";
+@font-face {
+/* font-family: 'BlackJackReg'; /*a name to be used later*/
+/* src: url('./black_jack.ttf'); /*URL to font*/
+}
+
+#main > header {
+		padding: 15em 0 10em 0 ;
+		background-image: url(../../figs/topBanner.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: 0px 55px; 
+/*  margin-top: 155px;
+  margin-bottom: 60px;		*/
+		padding-top: 0;
+}
+
+body.landing #page-wrapper {
+		background-image: none;
+		background-image: none;
+		background-image: none;
+		background-image: none;/**/
+		background-position: top;/**/
+}
+
+body.is-mobile.landing #banner {
+  	background-image: none;
+		background-image: none;
+		background-image: none;
+		background-image: none;/**/
+		background-position: top;/**/
+}
+
+body {
+		color:#38181E;
+		background-color: #FDF1EF;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+color: #38181E;}
+
+
+	
+#header h1,h2{
+ color: #c77986;
+ text-align:center;
+ display:inline-block;
+ position:relative;
+ width:100%;
+ font-family: "Open Sans", Helvetica, sans-serif;
+ font-size: 15pt;
+ font-weight: 400;
+ letter-spacing: 0.075em;
+ line-height: 1.65em;
+}	
+
+
+@media screen and (max-width: 1280px) {
+#header h1,h2{
+   font-size: 12pt;
+}
+}
+
+@media screen and (max-width: 980px) {
+#header h1,h2{
+   font-size: 10pt;
+}
+}
+
+
+.wrapper.style1 {
+			background-color: #FDF1EF;/*#504f4b;*/
+			color: #38181E;/*#d0ccc2;*/
+	}
+
+.wrapper.style1 h2, .wrapper.style1 h3, .wrapper.style1 h4, .wrapper.style1 h5, .wrapper.style1 h6 {
+				color:/* #d0ccc2;*/#38181E;
+}
+
+.wrapper.style2 {
+			background-color: #FFF1E9;/*#504f4b;*/
+			color: #38181E;/*#d0ccc2;*/
+}
+
+.wrapper.style2 h2, .wrapper.style2 h3, .wrapper.style2 h4, .wrapper.style2 h5, .wrapper.style2 h6 {
+				color:/* #d0ccc2;*/#38181E;
+}	
+
+.wrapper.style3 {
+			background-color: rgba(253, 241, 239,.85);/*#504f4b;*/
+			color: #38181E;/*#d0ccc2;*/
+	}
+	
+#banner .more:after {
+			  background-image: url("images/arrow_pink.svg");
+}
+
+#banner {
+  padding: 3em 3em 3em 3em;
+  color: #FDF1EF;/**//*#c77986; /**/
+  /*background-color: rgba(173,68,31,0);/**//*rgba(237,73,51,.2);*//*rgba(199,121,134,.2);/**/
+}
+
+
+
+#banner h2{
+  /*font-family: "BlackJackReg";*/
+  color: #FDF1EF;/**//*#c77986;/**/ 
+ /* font-weight: 100;*/
+/*-webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color:  */
+}
+		
+body.landing #footer {
+  background-color: rgba(202, 171, 168, 0.9);
+}
+
+#menu .close {
+			background-image: url("images/close_pink.svg");
+}
+
+#menu {
+  background-color: #FDF1EF;/*#504f4b;*/
+  color: #c77986;/*#d0ccc2;*/
+}
+
+#header nav > ul > li > a {
+  color: #c77986;
+}
+
+#header nav > ul > li > a.menuToggle:after {
+  background-image: url("images/bars_pink.svg");
+}
+
+#header {
+  background: rgba(253, 241, 239,.85);/*transparent;*//*#2e3842;*/ 
+}
+
+#header.alt nav > ul > li > a {
+  color: /*#FFF1E9;/**/#c77986;/**/
+}
+
+#header.alt nav > ul > li > a.menuToggle:after {
+  background-image: url("images/bars_pink.svg");
+}
+
+#footer {
+		/*background-color: #CAABA8;/*#1d242a;*/
+		background-color: #CAABA8;
+}
+
+article h2{
+  color: #FFF1E9;
+}
+
+.button.primary {
+  background-color: #c77986;
+  color:  #FFF1E9;
+}
+
+body.is-menu-visible #page-wrapper {
+		opacity: 1;
+	}
+
+body.is-mobile.landing #footer {
+		background-color: #CAABA8;
+}
+
+ul
+{
+list-style-position: inside;
+}
+
+
+a {
+  border-bottom: none;
+  color:/*#c77986;/**/#AD441F;/**/
+}
+
+#page-wrapper {
+padding-top: 0em;
+}
+
+#page-wrapper {
+padding-top: 0em;
+}
+
+.wrapper {
+padding-top: 2.5em;
+padding-bottom: 1em;
+}
+
+#footer {
+				padding-top: 3em;
+				padding-bottom: 3em;
+			}
+			
+ul {
+  		margin: 0 0 1em 0;
+}
+
+
+
+#content-desktop {display: block;}
+#content-mobile {display: none;}
+
+@media screen and (max-width: 768px) {
+#content-desktop {display: none;}
+#content-mobile {display: block;}
+}
+
+
